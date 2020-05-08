@@ -26,5 +26,5 @@ Contents for my homepage:
 
 
 
-| ------:| -----------:| -----------:|
-| (c) May 2020, Veronika Haberkorn :mask:   | [haberoni](https://github.com/haberoni)    |   ![GitHub Logo](./img/UNIGE.gif) |
+ ------| -----------| -----------
+(c) May 2020, Veronika Haberkorn :mask:   | [haberoni](https://github.com/haberoni)    |   ![GitHub Logo](./img/UNIGE.gif) 
