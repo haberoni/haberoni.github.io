@@ -4,10 +4,8 @@
 [comment]: # (this text is invisible for the viewer of the README.md)
 
 
-![UNIGE logo](./img/UNIGE.gif) his project was created in the scope of my master studies at the [University of Geneva](https://www.unige.ch/fti/en/).
-
-During the lecture *Technologies de l’information et de la communication*, we got introducted to Github. 
-
+![UNIGE logo](./img/UNIGE.gif) This project was created in the scope of my master studies at the [University of Geneva](https://www.unige.ch/fti/en/).  
+During the lecture *Technologies de l’information et de la communication*, we got introducted to Github.   
 I created this repository for the *Exercice 8: Git et Markdown* in the spring semester 2020.
 
 
@@ -27,5 +25,5 @@ Contents for my homepage:
 
 
 
-(c) May 2020, Veronika Haberkorn :mask:   | [haberoni](https://github.com/haberoni)
+(c) 2020 Veronika Haberkorn :mask:   | [haberoni](https://github.com/haberoni)
 
