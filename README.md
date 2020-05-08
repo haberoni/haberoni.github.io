@@ -5,7 +5,7 @@
 
 
 ![UNIGE logo](./img/UNIGE.gif) This project was created in the scope of my master studies at the [University of Geneva](https://www.unige.ch/fti/en/).  
-During the lecture *Technologies de l’information et de la communication*, we got introducted to Github.   
+During the lecture __*Technologies de l’information et de la communication*__, we got introducted to Github.   
 I created this repository for the *Exercice 8: Git et Markdown* in the spring semester 2020.
 
 
