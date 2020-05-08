@@ -4,13 +4,11 @@
 [comment]: # (this text is invisible for the viewer of the README.md)
 
 
-				| 
------------- 	| -------------
-![UNIGE logo](./img/UNIGE.gif)  | This project was created in the scope of my master studies at the [University of Geneva](https://www.unige.ch/fti/en/).
-![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png) | During the lecture *Technologies de l’information et de la communication*, we got introducted to Github. I created this repository for the *Exercice 8: Git et Markdown* in the spring semester 2020.
+![UNIGE logo](./img/UNIGE.gif) his project was created in the scope of my master studies at the [University of Geneva](https://www.unige.ch/fti/en/).
 
+During the lecture *Technologies de l’information et de la communication*, we got introducted to Github. 
 
-
+I created this repository for the *Exercice 8: Git et Markdown* in the spring semester 2020.
 
 
 ## Content
@@ -26,8 +24,6 @@ Contents for my homepage:
 - [x] Language section
 - [x] Contact informationen
 - [ ] Replace `img/dummy.jpg` with profile picture
-
-
 
 
 
