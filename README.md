@@ -25,6 +25,6 @@ Contents for my homepage:
 
 
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png | width=150)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png =100x)
 
 (c) May 2020, Veronika Haberkorn :mask: | [haberoni](https://github.com/haberoni)
