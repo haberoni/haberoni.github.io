@@ -1,9 +1,72 @@
-﻿.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: grey;
-  color: white;
-  text-align: center;
+.row{
+    margin-top: 15px;
 }
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+.colorbackground{
+    background-color: #FF7E39;
+}
+
+.colorbackground2{
+    background-color: #a4b65e;
+}
+
+.colorbackground3{
+    background-color: #4A98C8;
+}
+
+h5{
+    color: white;
+}
+
+h6{
+    color: darkslategrey;
+}
+
+.white{
+    color: white;
+}
+
+span.hover{
+    background-color:lightgrey;
+    display: none;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+}
+    
+ion-icon:hover + span{
+    display: inline-block;
+    opacity: 1;
+    z-index: 1;
+}
+
+#footer-space{
+    margin-bottom: 70px;
+}
+
+footer.footer{
+    height: 50px;
+    width: 100%;
+    background-color: #333333;
+}
+
+p.copyright{
+    color: #fff;
+    line-height: 30px;
+    font-size: 0.7em;
+}
+
