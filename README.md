@@ -1,7 +1,8 @@
 # haberoni.github.io
 
 ## Purpose
-[comment]: <> (![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png))
+[comment]: # (![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png))
+
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
 
 This project was created in the scope of my master studies at the [University of Geneva](https://www.unige.ch/fti/en/).
@@ -14,8 +15,10 @@ This projects hosts the source code of my __personal webpage__.
 * My stylesheet [style.css](https://github.com/haberoni/haberoni.github.io/blob/master/css/style.css)
 
 
-`index.html
-
-
+## Agenda
+- [x] Add Education section
+- [x] Add Language section
+- [x] Add contact informationen
+- [ ] Add profile picture `img/dummy.jpg`
 
 (c) May 2020, Veronika Haberkorn | [haberoni](https://github.com/haberoni)
